@@ -1,0 +1,643 @@
+*******TestCase1*******
+
+Inserting [100 1] [99 2] ... [1 100] into the PQ
+
+Displaying all the minimum values
+[1 100]   
+
+Extracting out all the Minimum Values
+[1 100]   
+
+After Extracting the minimum value from PQ
+Displaying all the minimum values
+[2 99]   
+Inserting [1,0] to the PQ
+Displaying all the minimum values
+[1 0]   
+
+*******TestCase2*******
+
+Inserting [1000 1] [999 2] ... [1 1000] into the PQ
+
+Displaying all the minimum values
+[1 1000]   
+
+Inserting [1 1] [1 2] ... [1 30] into the PQ
+Extracting out all the Minimum Values
+
+[1 30]   [1 29]   [1 28]   [1 27]   [1 26]   [1 25]   [1 24]   [1 22]   [1 23]   [1 21]   [1 20]   [1 18]   [1 19]   [1 17]   [1 2]   [1 1]   [1 15]   [1 1000]   [1 16]   [1 8]   [1 4]   [1 3]   [1 7]   [1 5]   [1 6]   [1 14]   [1 10]   [1 9]   [1 13]   [1 11]   [1 12]   
+
+Displaying all the minimum values
+[2 999]   
+
+*******TestCase3*******
+
+Inserting 500 randomly generated data items to PQ.
+
+Applying Extra-all-min operation to PQ 5 times,
+
+[391 670]   
+
+[294 409]   
+
+[352 271]   
+
+[213 15]   
+
+[265 1015]   
+
+
+Randomly selecting a data item from the PQ. Decrease the key value to 5
+
+Displaying all the minimum values
+[5 445]   
+
+*******TestCase4*******
+
+Inserting 500 randomly generated data items to PQ.
+
+Decreasing the Priority 10 times to a random value which is between 0 to 9
+Performing ExtractAllMinimum operation 10 times
+[5 163]   
+[2 470]   [2 910]   
+[5 973]   
+[6 776]   
+[2 348]   
+[9 53]   
+[5 475]   
+[8 909]   
+[18 157]   
+[21 216]   
+
+*******TestCase5*******
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+Insert Operation
+
+
+
+DecreaseRandomKey Operation
+
+
+
+Insert Operation
+
+
+
+ExtractAllOperation
+[3 88]   
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[9 56]   
+
+
+
+DecreaseRandomKey Operation
+
+
+
+ExtractAllOperation
+[9 56]   
+
+
+Completion of 20 operations...
+The Queue is now:
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+Insert Operation
+
+
+
+ExtractAllOperation
+[0 46]   
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+Insert Operation
+
+
+
+ExtractAllOperation
+[6 74]   
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+Insert Operation
+
+
+
+Insert Operation
+
+
+
+ExtractAllOperation
+[1 91]   
+
+
+
+ExtractAllOperation
+[6 59]   
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+Completion of 20 operations...
+The Queue is now:
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+Insert Operation
+
+
+
+ExtractAllOperation
+[2 48]   
+
+
+
+Insert Operation
+
+
+
+ExtractAllOperation
+[6 33]   
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+Insert Operation
+
+
+
+DecreaseRandomKey Operation
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[3 66]   
+
+
+
+ExtractAllOperation
+[3 66]   
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+Completion of 20 operations...
+The Queue is now:
+No Elements in the Queue
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+Insert Operation
+
+
+
+ExtractAllOperation
+[6 72]   
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+ExtractAllOperation
+No Elements in the Queue
+
+
+
+DecreaseRandomKey Operation
+No Elements in the Queue
+
+
+
+AllMinimum Operation
+No Elements in the Queue
+
+
+
+
+Insert Operation
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[5 52]   
+
+
+
+DecreaseRandomKey Operation
+
+
+
+Insert Operation
+
+
+
+DecreaseRandomKey Operation
+
+
+
+ExtractAllOperation
+[2 47]   
+
+
+
+DecreaseRandomKey Operation
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[5 52]   
+
+
+
+DecreaseRandomKey Operation
+
+
+
+Insert Operation
+
+
+
+Insert Operation
+
+
+
+Insert Operation
+
+
+Completion of 20 operations...
+The Queue is now:
+[2 51]   [0 81]   [5 52]   [9 1]   
+
+ExtractAllOperation
+[2 51]   
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[0 81]   
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[0 81]   
+
+
+
+ExtractAllOperation
+[0 81]   
+
+
+
+ExtractAllOperation
+[5 52]   
+
+
+
+DecreaseRandomKey Operation
+
+
+
+Insert Operation
+
+
+
+ExtractAllOperation
+[1 66]   
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[9 1]   
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[9 1]   
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[9 1]   
+
+
+
+Insert Operation
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[6 79]   
+
+
+
+Insert Operation
+
+
+
+ExtractAllOperation
+[1 72]   
+
+
+
+DecreaseRandomKey Operation
+
+
+
+Insert Operation
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[5 79]   
+
+
+
+AllMinimum Operation
+Displaying all the minimum values
+[5 79]   
+
+
+
+DecreaseRandomKey Operation
+
+
+Completion of 20 operations...
+The Queue is now:
+[4 79]   [9 1]   [7 36]   
+
+AllMinimum Operation
+Displaying all the minimum values
+[4 79]   
+
+*******TestCase6*******
+
+Array A has elements [1000; 999; 998; :::; 1]
+Applying Smoothsort to Array A...
+
+A Sorted shortened listing of elements of A
+
+1   21   41   61   81   101   121   141   161   181   201   221   241   261   281   301   321   341   361   381   401   421   441   461   481   501   521   541   561   581   601   621   641   661   681   701   721   741   761   781   801   821   841   861   881   901   921   941   961   981   
+
+The total number of comparisons among elements in A performed = 17803
+*******TestCase7*******
+
+Array A has elements [1; 2; 3; :::; 2000]
+Swapping 20 random elements...
+Applying Smoothsort to Array A...
+
+A Sorted shortened listing of elements of A
+
+1   21   41   61   81   101   121   141   161   181   201   221   241   261   281   301   321   341   361   381   401   421   441   461   481   501   521   541   561   581   601   621   641   661   681   701   721   741   761   781   801   821   841   861   881   901   921   941   961   981   1001   1021   1041   1061   1081   1101   1121   1141   1161   1181   1201   1221   1241   1261   1281   1301   1321   1341   1361   1381   1401   1421   1441   1461   1481   1501   1521   1541   1561   1581   1601   1621   1641   1661   1681   1701   1721   1741   1761   1781   1801   1821   1841   1861   1881   1901   1921   1941   1961   1981   
+
+The total number of comparisons among elements in A performed = 6007
+*******TestCase8*******
+
+Array A has elements [1; 2; 3; :::; 2000]
+Permutating 3 elements by choosing a Random Number
+Applying Smoothsort to Array A...
+
+A Sorted shortened listing of elements of A
+
+1   21   41   61   81   101   121   141   161   181   201   221   241   261   281   301   321   341   361   381   401   421   441   461   481   501   521   541   561   581   601   621   641   661   681   701   721   741   761   781   801   821   841   861   881   901   921   941   961   981   1001   1021   1041   1061   1081   1101   1121   1141   1161   1181   1201   1221   1241   1261   1281   1301   1321   1341   1361   1381   1401   1421   1441   1461   1481   1501   1521   1541   1561   1581   1601   1621   1641   1661   1681   1701   1721   1741   1761   1781   1801   1821   1841   1861   1881   1901   1921   1941   1961   1981   
+
+The total number of comparisons among elements in A performed = 6206
+*******TestCase9*******
+
+Array A is of length 3193 and have random numbers 
+Applying Smoothsort to Array A...
+
+A Sorted shortened listing of elements of A
+
+0   53   114   181   253   315   369   423   497   555   603   670   719   805   865   937   993   1067   1138   1234   1315   1380   1455   1505   1565   1643   1706   1755   1804   1865   1925   1965   2024   2082   2168   2242   2321   2384   2446   2504   2597   2663   2708   2792   2866   2917   3001   3061   3134   3197   3268   3331   3375   3441   3483   3525   3589   3644   3725   3791   3831   3889   3969   4030   4092   4147   4204   4246   4274   4330   4395   4450   4518   4603   4665   4743   4840   4894   4970   5000   5095   5120   5182   5252   5326   5393   5439   5501   5547   5612   5701   5776   5836   5900   5961   6020   6050   6105   6172   6246   6307   6400   6449   6505   6610   6656   6736   6789   6882   6935   7030   7107   7176   7266   7322   7365   7426   7474   7548   7611   7709   7757   7830   7909   7952   7995   8052   8112   8147   8202   8255   8311   8358   8410   8494   8543   8605   8674   8721   8790   8829   8884   8925   8994   9049   9111   9157   9225   9294   9380   9439   9497   9559   9597   9652   9724   9794   9846   9919   9966   
+
+The total number of comparisons among elements in A performed = 78170
+*******TestCase10*******
+
+Array A is of length 5166 and have random numbers 
+Applying Smoothsort to Array A...
+
+A Sorted shortened listing of elements of A
+
+0   45   83   128   156   185   219   270   301   345   379   413   442   483   534   589   625   671   712   760   792   839   870   923   967   1003   1039   1079   1129   1165   1204   1234   1272   1307   1343   1367   1398   1431   1468   1503   1533   1581   1624   1657   1693   1741   1777   1803   1852   1881   1915   1948   1988   2018   2053   2097   2124   2172   2203   2262   2299   2343   2386   2421   2455   2494   2536   2574   2618   2653   2695   2739   2760   2788   2834   2879   2910   2953   2984   3028   3065   3099   3159   3190   3209   3240   3286   3319   3353   3392   3441   3478   3523   3564   3610   3647   3679   3716   3765   3804   3837   3862   3898   3942   3983   4016   4073   4102   4133   4183   4222   4263   4295   4331   4374   4392   4437   4480   4523   4567   4605   4635   4665   4723   4770   4809   4844   4886   4931   4960   5002   5056   5079   5110   5154   5191   5223   5269   5299   5346   5389   5425   5466   5499   5528   5587   5621   5659   5681   5725   5756   5793   5824   5861   5901   5934   5972   6015   6056   6106   6142   6167   6211   6250   6279   6319   6344   6390   6424   6476   6512   6543   6600   6640   6680   6710   6748   6793   6854   6901   6953   6978   7013   7050   7103   7147   7180   7223   7268   7299   7336   7364   7394   7431   7474   7508   7542   7577   7613   7660   7690   7723   7768   7818   7861   7905   7953   7989   8032   8073   8123   8168   8205   8255   8286   8329   8367   8389   8436   8467   8499   8538   8565   8605   8633   8676   8715   8757   8811   8849   8884   8930   8997   9038   9070   9117   9151   9182   9240   9265   9300   9344   9371   9406   9445   9489   9524   9571   9616   9657   9685   9735   9770   9809   9841   9880   9922   9960   
+
+The total number of comparisons among elements in A performed = 135084
+
